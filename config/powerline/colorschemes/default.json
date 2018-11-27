@@ -1,0 +1,20 @@
+{
+	"name": "Default",
+	"groups": {
+		"weather":                    { "fg": "gray0", "bg": "skyblue1", "attrs": [] },
+		"weather_temp_gradient":      { "fg": "white", "bg": "blue_red", "attrs": [] },
+		"weather_condition_hot":      { "fg": "brightestred", "bg": "brightestorange", "attrs": ["bold"] },
+		"weather_condition_snowy":    { "fg": "gray8", "bg": "white", "attrs": [] },
+		"weather_condition_rainy":    { "fg": "brightcyan", "bg": "gray8", "attrs": ["bold"] },
+		"weather_condition_sunny":    { "fg": "yellow", "bg": "skyblue1", "attrs": ["bold"] },
+		"weather_condition_cloudy":   { "fg": "white", "bg": "gray8", "attrs": ["bold"] },
+		"weather_condition_windy":    { "fg": "gray0", "bg": "skyblue1", "attrs": [] },
+		"weather_condition_night":    { "fg": "gray0", "bg": "black", "attrs": [] },
+		"network_load":               { "fg": "white", "bg": "gray5", "attrs": [] },
+		"cpu_load_percent_gradient":  { "fg": "green_yellow_orange_red", "bg": "gray25", "attrs": ["bold"] },
+		"player":                     { "fg": "darkgreen", "bg": "gray1", "attrs": [] },
+		"cwd":                        { "fg": "gray9", "bg": "gray0", "attrs": [] },
+		"cwd:current_folder":         { "fg": "gray10", "bg": "gray0", "attrs": ["bold"] },
+		"cwd:divider":                { "fg": "gray9", "bg": "gray0", "attrs": [] },
+	}
+}
